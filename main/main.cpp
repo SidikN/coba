@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "gpio.h"
+//#include "gpio.h"
 #include "adc.h"
 
 extern "C"
